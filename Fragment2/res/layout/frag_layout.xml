@@ -10,10 +10,5 @@
         android:textSize="30sp"
         android:text="ahahahahahah"
         />
-    <fragment 
-        android:name="com.example.fragment2.frag2"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        />
 
 </LinearLayout>
